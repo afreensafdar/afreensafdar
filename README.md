@@ -36,9 +36,14 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![AWS](https://img.shields.io/badge/AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-05122A?style=flat&logo=amazon-aws&logoColor=23FF9900)&nbsp;
 ![Heroku](https://img.shields.io/badge/heroku-05122A?style=flat&logo=heroku)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-05122A?style=flat&logo=docker)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-05122A?style=flat&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-05122A?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-05122A?style=flat&logo=sqlite&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-05122A?style=flat&logo=spring&logoColor=white)
+
 
 
 ### ⚙️ &nbsp;GitHub Analytics
