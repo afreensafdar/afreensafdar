@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I’m currently working as Full Stack Software Developer.\
+🎓 &nbsp;I’m currently working as Full Stack Software Developer Apprentice.\
 🌱 &nbsp; I’m currently learning Data Structures and Algorithms.\
-✍️ &nbsp;In my free time, I watch Netflix , and enjoy gardening.\
+✍️ &nbsp;In my free time, I watch Netflix and enjoy gardening.\
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -36,6 +36,11 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
