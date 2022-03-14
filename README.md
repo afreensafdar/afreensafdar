@@ -36,10 +36,9 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![React](https://img.shields.io/badge/react-05122A?style=flat&logo=react)&nbsp;
-![AWS](https://img.shields.io/badge/AWS--05122A?style=flat&logo=amazon-aws)&nbsp;
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
+![Heroku](https://img.shields.io/badge/heroku-05122A?style=flat&logo=heroku)&nbsp;
+![Docker](https://img.shields.io/badge/docker-05122A?style=flat&logo=docker)&nbsp;
 
 
 ### ⚙️ &nbsp;GitHub Analytics
