@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 ![Postgres](https://img.shields.io/badge/Postgres-05122A?style=flat&logo=postgresql)\
 ![SQLite](https://img.shields.io/badge/Sqlite-05122A?style=flat&logo=sqlite)
 ![Spring](https://img.shields.io/badge/Spring-05122A?style=flat&logo=spring)
+![Codewars Badge](https://www.codewars.com/users/afreensafdar/badges/large)](https://www.codewars.com/users/afreensafdar)
 
 
 
@@ -54,11 +55,10 @@ Here are some ideas to get you started:
 <a href="https://github.com/afreensafdar">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=afreensafdar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=afreensafdar&layout=compact&langs_count=8&theme=algolia"/>
-   [![Codewars Badge](https://www.codewars.com/users/afreensafdar/badges/large)](https://www.codewars.com/users/afreensafdar)
-  <img src="https://komarev.com/ghpvc/?username=afreensafdar&color=brightgreen" alt="watching_count" />
 </a>
 
 </p>
+  <img src="https://komarev.com/ghpvc/?username=afreensafdar&color=brightgreen" alt="watching_count" />
 
 ### 🤝🏻 &nbsp;Connect with Me
 
