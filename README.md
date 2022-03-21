@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ![Postgres](https://img.shields.io/badge/Postgres-05122A?style=flat&logo=postgresql)\
 ![SQLite](https://img.shields.io/badge/Sqlite-05122A?style=flat&logo=sqlite)
 ![Spring](https://img.shields.io/badge/Spring-05122A?style=flat&logo=spring)
-![Codewars Badge](https://www.codewars.com/users/afreensafdar/badges/large)](https://www.codewars.com/users/afreensafdar)
+
 
 
 
@@ -58,7 +58,6 @@ Here are some ideas to get you started:
 </a>
 
 </p>
-  <img src="https://komarev.com/ghpvc/?username=afreensafdar&color=brightgreen" alt="watching_count" />
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -67,3 +66,8 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/afreensmohammed/"><img src="https://img.shields.io/badge/-Afreen%20S%20Mohammed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=afreensafdar&color=brightgreen" alt="watching_count" />
+  ![Codewars Badge](https://www.codewars.com/users/afreensafdar/badges/small)(https://www.codewars.com/users/afreensafdar)
+  </p>
+
