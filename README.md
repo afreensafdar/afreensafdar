@@ -54,7 +54,10 @@ Here are some ideas to get you started:
 <a href="https://github.com/afreensafdar">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=afreensafdar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=afreensafdar&layout=compact&langs_count=8&theme=algolia"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=afreensafdar&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 </a>
+  [![Codewars Badge](https://www.codewars.com/users/afreensafdar/badges/large)](https://www.codewars.com/users/afreensafdar)
+  <img src="https://komarev.com/ghpvc/?username=afreensafdar&color=brightgreen" alt="watching_count" />
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
