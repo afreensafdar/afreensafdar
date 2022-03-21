@@ -1,5 +1,5 @@
 ### Hi there 👋 <h2> I'm Afreen S Mohammed</h2>
-<img src="afreen.png" width="50%">
+<img src="afreen.png" width="100%">
 
 
 <!--
