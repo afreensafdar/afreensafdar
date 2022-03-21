@@ -68,6 +68,5 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=afreensafdar&color=brightgreen" alt="watching_count" />
-  ![Codewars Badge](https://www.codewars.com/users/afreensafdar/badges/small)(https://www.codewars.com/users/afreensafdar)
   </p>
 
