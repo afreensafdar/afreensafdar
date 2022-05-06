@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 🌱 &nbsp; I’m currently learning Data Structures and Algorithms.\
 ✍️ &nbsp;In my free time, I watch Netflix and enjoy gardening.
 
+### :computer: Portfolio
+
+:trackball: &nbsp; My collection of projects : [View here](https://afreenportfolio.netlify.app/)
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -45,8 +48,6 @@ Here are some ideas to get you started:
 ![Postgres](https://img.shields.io/badge/Postgres-05122A?style=flat&logo=postgresql)\
 ![SQLite](https://img.shields.io/badge/Sqlite-05122A?style=flat&logo=sqlite)
 ![Spring](https://img.shields.io/badge/Spring-05122A?style=flat&logo=spring)
-
-
 
 
 ### ⚙️ &nbsp;GitHub Analytics
