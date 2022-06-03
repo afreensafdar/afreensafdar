@@ -66,7 +66,6 @@ Here are some ideas to get you started:
 <p align="center">
 
 <a href="https://www.linkedin.com/in/afreensmohammed/"><img src="https://img.shields.io/badge/-Afreen%20S%20Mohammed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=afreensafdar&color=brightgreen" alt="watching_count" />
 </p>
-
+<img src="https://komarev.com/ghpvc/?username=afreensafdar&color=brightgreen" alt="watching_count" />
 
