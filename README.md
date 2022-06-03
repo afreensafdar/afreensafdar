@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 
 ### :computer: Portfolio
 
-:trackball: &nbsp; My collection of projects : [View here](https://afreenportfolio.netlify.app/)
+:trackball: &nbsp; A compilation of my projects built during my apprenticeship at Multiverse and Verizon.
+ [https://afreenportfolio.netlify.app](https://afreenportfolio.netlify.app/)
 
 ### 🛠 &nbsp;Tech Stack
 
