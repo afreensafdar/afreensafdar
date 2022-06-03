@@ -36,19 +36,19 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
 ![Heroku](https://img.shields.io/badge/Heroku-05122A?style=flat&logo=heroku)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker)&nbsp;
-![MySQL](https://img.shields.io/badge/Mysql-05122A?style=flat&logo=mysql)
-![Postgres](https://img.shields.io/badge/Postgres-05122A?style=flat&logo=postgresql)\
-![SQLite](https://img.shields.io/badge/Sqlite-05122A?style=flat&logo=sqlite)
-![Spring](https://img.shields.io/badge/Spring-05122A?style=flat&logo=spring)
+![MySQL](https://img.shields.io/badge/Mysql-05122A?style=flat&logo=mysql)&nbsp;
+![Postgres](https://img.shields.io/badge/Postgres-05122A?style=flat&logo=postgresql)&nbsp;
+![SQLite](https://img.shields.io/badge/Sqlite-05122A?style=flat&logo=sqlite)&nbsp;
+![Spring](https://img.shields.io/badge/Spring-05122A?style=flat&logo=spring)&nbsp;
 
 
 ### ⚙️ &nbsp;GitHub Analytics
