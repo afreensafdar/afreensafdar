@@ -49,6 +49,11 @@ Here are some ideas to get you started:
 ![Postgres](https://img.shields.io/badge/Postgres-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/Sqlite-05122A?style=flat&logo=sqlite)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-05122A?style=flat&logo=spring)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux)&nbsp;
+![Netlify](https://img.shields.io/badge/Netlify-05122A?style=flat&logo=netlify)&nbsp;
+![SuperPutty](https://img.shields.io/badge/SuperPutty-05122A?style=flat&logo=superputty)&nbsp;
+![Testing](https://img.shields.io/badge/Testing-05122A?style=flat&logo=jest)&nbsp;
+
 
 
 ### ⚙️ &nbsp;GitHub Analytics
