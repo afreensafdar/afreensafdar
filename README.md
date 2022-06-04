@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I’m currently working as Full Stack Software Developer Apprentice.\
+🎓 &nbsp;I’m currently working as a Software Developer.\
 ✍️ &nbsp; I’m currently learning Data Structures and Algorithms.\
 🌱 &nbsp;In my free time, I watch Netflix and enjoy gardening.
 
